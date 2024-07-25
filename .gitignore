@@ -1,0 +1,32 @@
+# Ignore .DS_Store files
+.DS_Store
+
+# Python cache and virtual environment directories
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and local environment files
+*.log
+.env
+
+# VS Code settings
+.vscode/
